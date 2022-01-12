@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/jebcode2021">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jebcode2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebcode2021&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jebcode2021&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebcode2021&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,6 +29,4 @@
   <a href="https://instagram.com/jeb.code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jebcode2021" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:jebcode@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
