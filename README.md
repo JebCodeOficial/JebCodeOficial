@@ -4,6 +4,9 @@
 - 📫 Contate-me no email: programado@jebcode.com.br
 - 🌐 Acesso meu site: www.jebcode.com.br/shop
 
+- <h1>JebCode</h1>
+<p>Here's a link to <a href="www.jebcode.com.br/shop" target="_blank">JebCode</a></p>
+
  <div>
   <a href="https://github.com/jebcode2021">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jebcode2021&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
