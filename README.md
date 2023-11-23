@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jonathan Euzébio Boza - JebCode
 
 - 🌱 Hoje trabalho com front-end e backend
-- 📫 Contate-me no email: jebcode@outlook.com.br
-- 🌐 Acesso meu site: www.jebcode.com.br
+- 📫 Contate-me no email: programado@jebcode.com.br
+- 🌐 Acesso meu site: www.jebcode.com.br/shop
 
  <div>
   <a href="https://github.com/jebcode2021">
@@ -28,5 +28,5 @@
   <a href="https://www.youtube.com/channel/UCKaRemDuphtP7zWtwyIOH6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jeb.code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jebcode2021" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="mailto:jebcode@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a> 
+ <a href="mailto:programado@jebcode.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a> 
 </div>
