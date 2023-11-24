@@ -2,7 +2,7 @@
 
 - 🌱 Hoje trabalho com front-end e backend
 - 📫 Contate-me no email: programado@jebcode.com.br
-- 🌐 Acesso meu site: www.jebcode.com.br/shop
+- 🌐 Acesso meu site: www.jebcode.com.br
 
  <div>
   <a href="https://github.com/jebcode2021">
