@@ -9,7 +9,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCKaRemDuphtP7zWtwyIOH6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/JebCodeOficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jebcode_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathaneboza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:programador@jebcode.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a> 
 </p>
